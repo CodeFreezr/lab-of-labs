@@ -7,4 +7,4 @@ Collect all my codelabs into one
 * [grolab](https://github.com/CodeFreezr/gro-lab)
 * [snippets](https://github.com/CodeFreezr/snippets)
 * [twitterei](https://github.com/CodeFreezr/twitterei)
-* [vuelab0](https://github.com/CodeFreezr/vue-lab)
+* [vue-lab](https://github.com/CodeFreezr/vue-lab)

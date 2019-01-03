@@ -15,3 +15,8 @@ Collect all my codelabs into one
 ### 11. snippets [![GitHub last commit](https://img.shields.io/github/last-commit/CodeFreezr/snippets.svg)](https://github.com/CodeFreezr/snippets)
 ### 12. twitterei [![GitHub last commit](https://img.shields.io/github/last-commit/CodeFreezr/twitterei.svg)](https://github.com/CodeFreezr/twitterei)
 ### 13. vue-lab [![GitHub last commit](https://img.shields.io/github/last-commit/CodeFreezr/vue-lab.svg)](https://github.com/CodeFreezr/vue-lab)
+
+---
+http://bit.ly/git-gobyes
+
+gitlab home of my 100DaysOfCode Log: 

@@ -17,6 +17,6 @@ Collect all my codelabs into one
 ### 13. vue-lab [![GitHub last commit](https://img.shields.io/github/last-commit/CodeFreezr/vue-lab.svg)](https://github.com/CodeFreezr/vue-lab)
 
 ---
-http://bit.ly/git-gobyes
+Go By Examples: [gobeys](http://bit.ly/git-gobyes)
 
-gitlab home of my 100DaysOfCode Log: 
+New home of my 100DaysOfCode Logs: [gitlab](https://gitlab.com/codefreezr/100-days-of-code)

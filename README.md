@@ -22,5 +22,5 @@ Collect all my codelabs into one
 ... to discover
 
 ### Go By Examples: [gobeys](http://bit.ly/git-gobyes)  
-### New home of my 100DaysOfCode Logs: [gitlab](https://gitlab.com/codefreezr/100-days-of-code)
+### 100DaysOfCode: [R1](https://gitlab.com/codefreezr/100-days-of-code/blob/master/r1-log.md), [R2](https://gitlab.com/codefreezr/100-days-of-code/blob/master/r2-log.md)
 ### [Awesome Graphviz](https://codefreezr.github.io/awesome-graphviz/)

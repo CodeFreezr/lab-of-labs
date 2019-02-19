@@ -1,15 +1,12 @@
 # Some Stuff ...
-... to discover
+### 100DaysOfCode: [R1](https://gitlab.com/codefreezr/100-days-of-code/blob/master/r1-log.md), [R2](https://gitlab.com/codefreezr/100-days-of-code/blob/master/r2-log.md)
 ### [Awesome Graphviz](https://codefreezr.github.io/awesome-graphviz/)
 ### [Awesome LearnRwithR](https://codefreezr.github.io/awesome-LearnRwithR/)
 ### Go By Examples: [gobeys](http://bit.ly/git-gobyes)  
-### 100DaysOfCode: [R1](https://gitlab.com/codefreezr/100-days-of-code/blob/master/r1-log.md), [R2](https://gitlab.com/codefreezr/100-days-of-code/blob/master/r2-log.md)
-
 ---  
 
 # lab-of-labs
 Collect all my codelabs into one
-
 
 ### 1. api-lab [![GitHub last commit](https://img.shields.io/github/last-commit/CodeFreezr/api-lab.svg)](https://github.com/CodeFreezr/api-lab)
 ### 2. go-lab [![GitHub last commit](https://img.shields.io/github/last-commit/CodeFreezr/go-lab.svg)](https://github.com/CodeFreezr/go-lab)

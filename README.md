@@ -1,3 +1,12 @@
+# Some Stuff ...
+... to discover
+### [Awesome Graphviz](https://codefreezr.github.io/awesome-graphviz/)
+### [Awesome LearnRwithR](https://codefreezr.github.io/awesome-LearnRwithR/)
+### Go By Examples: [gobeys](http://bit.ly/git-gobyes)  
+### 100DaysOfCode: [R1](https://gitlab.com/codefreezr/100-days-of-code/blob/master/r1-log.md), [R2](https://gitlab.com/codefreezr/100-days-of-code/blob/master/r2-log.md)
+
+---  
+
 # lab-of-labs
 Collect all my codelabs into one
 
@@ -15,12 +24,3 @@ Collect all my codelabs into one
 ### 11. snippets [![GitHub last commit](https://img.shields.io/github/last-commit/CodeFreezr/snippets.svg)](https://github.com/CodeFreezr/snippets)
 ### 12. twitterei [![GitHub last commit](https://img.shields.io/github/last-commit/CodeFreezr/twitterei.svg)](https://github.com/CodeFreezr/twitterei)
 ### 13. vue-lab [![GitHub last commit](https://img.shields.io/github/last-commit/CodeFreezr/vue-lab.svg)](https://github.com/CodeFreezr/vue-lab)
-
----  
-
-# More Stuff ...
-... to discover
-
-### Go By Examples: [gobeys](http://bit.ly/git-gobyes)  
-### 100DaysOfCode: [R1](https://gitlab.com/codefreezr/100-days-of-code/blob/master/r1-log.md), [R2](https://gitlab.com/codefreezr/100-days-of-code/blob/master/r2-log.md)
-### [Awesome Graphviz](https://codefreezr.github.io/awesome-graphviz/)

@@ -1,5 +1,5 @@
 # Some Stuff ...
-### 100DaysOfCode: [R1](https://gitlab.com/codefreezr/100-days-of-code/blob/master/r1-log.md), [R2](https://gitlab.com/codefreezr/100-days-of-code/blob/master/r2-log.md)
+### 100DaysOfCode: [R1](https://gitlab.com/codefreezr/100-days-of-code/blob/master/r1-log.md), [R2](https://gitlab.com/codefreezr/100-days-of-code/blob/master/r2-log.md), [R3](https://gitlab.com/codefreezr/100-days-of-code/blob/master/r3-log.md), [R4](https://gitlab.com/codefreezr/100-days-of-code/blob/master/r4-log.md)
 ### [Awesome Graphviz](https://codefreezr.github.io/awesome-graphviz/)
 ### [Awesome LearnRwithR](https://codefreezr.github.io/awesome-LearnRwithR/)
 ### Go By Examples: [gobeys](http://bit.ly/git-gobyes)  

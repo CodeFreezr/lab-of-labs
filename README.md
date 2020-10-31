@@ -1,5 +1,5 @@
 # Some Stuff ...
-### LifeLongLearning: [blog - e](https://codefreezr.gitlab.io/lifelonglearning/en/),  [blog - de](https://codefreezr.gitlab.io/lifelonglearning/de/),
+### LifeLongLearning: [blog (e)](https://codefreezr.gitlab.io/lifelonglearning/en/),  [blog (de)](https://codefreezr.gitlab.io/lifelonglearning/de/), [repo](https://gitlab.com/codefreezr/lifelonglearning)
 ### Awesome Graphviz: [gitpage](https://codefreezr.github.io/awesome-graphviz/)
 ### 100DaysOfCode: [R1](https://gitlab.com/codefreezr/100-days-of-code/blob/master/r1-log.md), [R2](https://gitlab.com/codefreezr/100-days-of-code/blob/master/r2-log.md), [R3](https://gitlab.com/codefreezr/100-days-of-code/blob/master/r3-log.md), [R4](https://gitlab.com/codefreezr/100-days-of-code/blob/master/r4-log.md)
 ### Go By Examples: [gobeys](http://bit.ly/git-gobyes)  

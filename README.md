@@ -1,4 +1,4 @@
-![Graphoji](graphoji-dot.png)
+![Graphoji](graphoji-dot2.png)
 
 # Some Stuff ...
 ... lab & hub

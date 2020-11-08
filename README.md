@@ -11,8 +11,8 @@
 ### Awesome LearnRwithR: [gitpage](https://codefreezr.github.io/awesome-LearnRwithR/)
 ---  
 
-# lab-of-labs
-Collect all my codelabs
+# lab-of-labs ...
+... collect all my untidy codelabs
 
 ### 1. api-lab [![GitHub last commit](https://img.shields.io/github/last-commit/CodeFreezr/api-lab.svg)](https://github.com/CodeFreezr/api-lab)
 ### 2. blender-lab [gitlab-repo](https://gitlab.com/codefreezr/blenderlab)

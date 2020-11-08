@@ -1,3 +1,5 @@
+![Graphoji](graphoji-dot.png)
+
 # Some Stuff ...
 ### LifeLongLearning: [blog (e)](https://codefreezr.gitlab.io/lifelonglearning/en/),  [blog (de)](https://codefreezr.gitlab.io/lifelonglearning/de/), [repo](https://gitlab.com/codefreezr/lifelonglearning)
 ### Awesome Graphviz: [gitpage](https://codefreezr.github.io/awesome-graphviz/)

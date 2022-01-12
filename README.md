@@ -12,7 +12,7 @@
 1. FaaS-Lane: [faas-lane project](https://github.com/faas-lane), [FaaS-Landscape](https://github.com/faas-lane/FaaS-Lane/tree/master/candidates)
 1. RosettaCode by Nmbrs: [Categories & Graph](https://codefreezr.github.io/rosettacode-by-nmbrs/)
 1. Awesome LearnRwithR: [gitpage (wip)](https://codefreezr.github.io/awesome-LearnRwithR/)
----  
+
 
 # lab-of-labs ...
 ... collect all my untidy codelabs

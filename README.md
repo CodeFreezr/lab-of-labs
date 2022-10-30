@@ -1,7 +1,7 @@
 ![Graphoji](src/graphoji-dot2.png)
 
 # Some Stuff ...
-... lab & hub
+.... lab & hub
 
 1. Awesome Graphviz: [gitpage](https://codefreezr.github.io/awesome-graphviz/)
 1. ChaosLab: [homepage](https://codefreezr.gitlab.io/chaoslab/)
